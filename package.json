@@ -81,5 +81,6 @@
     "prepublish": "coffee -c docopt.coffee",
     "test": "mocha --compilers coffee:coffee-script/register"
   },
-  "version": "0.6.2"
+  "version": "0.6.2",
+  "image": "https://i.imgur.com/2FDnyrq.png"
 }
